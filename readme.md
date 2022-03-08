@@ -7,3 +7,5 @@ Make sure you check the "Allow animated backgrounds" option in the settings for 
 Github: https://github.com/Flixbox/EvenMoreBackgrounds
 
 WEBM converter used: https://www.online-convert.com
+
+Includes part of the StarCraft 2: Heart of the Swarm trailer, copyrighted by Blizzard, provided free of charge in compliance with their license: https://www.blizzard.com/en-gb/legal/dd76b654-f2c4-4aaa-ba49-ca3122de2376/blizzard-video-policy#1736282506

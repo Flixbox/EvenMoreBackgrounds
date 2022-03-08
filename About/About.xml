@@ -11,6 +11,8 @@
 Adds a lot of backgrounds (animated and still) for the main menu to the game. Most are from Unsplash or Pixabay, credits are usually in the appropriate folder. All files are free to use, without attribution.
 
 Make sure you check the "Allow animated backgrounds" option in the settings for Vanilla Backgrounds Expanded if you want the animated videos to be shown.
+
+Includes part of the StarCraft 2: Heart of the Swarm trailer, copyrighted by Blizzard, provided free of charge in compliance with their license.
 	</description>
 	<modDependencies>
 		<li>
