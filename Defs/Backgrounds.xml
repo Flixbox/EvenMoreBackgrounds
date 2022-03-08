@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
-    <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Earth (animated) - Textures/Animated_NASA_World.ogv</label>
-        <description>An animated background.</description>
-        <defName>EvenMoreBackgrounds_Animated_NASA_World</defName>
-        <path>Textures/Animated_NASA_World</path>
-        <animated>true</animated>
-    </VBE.BackgroundImageDef>
-    <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Earth (animated) - Animated_NASA_World.ogv</label>
-        <description>An animated background.</description>
-        <defName>EvenMoreBackgrounds_Animated_NASA_World_OGV</defName>
-        <path>Animated_NASA_World</path>
-        <animated>true</animated>
-    </VBE.BackgroundImageDef>
-    <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Tunnel (animated) - Textures/Tunnel.webm</label>
-        <description>An animated background.</description>
-        <defName>EvenMoreBackgrounds_Tunnel__</defName>
-        <path>Textures/Tunnel</path>
-        <animated>true</animated>
-    </VBE.BackgroundImageDef>
-    <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Tunnel (animated) - Tunnel.webm</label>
-        <description>An animated background.</description>
-        <defName>EvenMoreBackgrounds_Tunnel</defName>
-        <path>Tunnel</path>
-        <animated>true</animated>
-    </VBE.BackgroundImageDef>
+
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - RimThemes (animated) - UI_BackgroundMain.BGPlanet.webm</label>
         <description>An animated background.</description>
@@ -35,13 +8,7 @@
         <path>UI_BackgroundMain.BGPlanet</path>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
-    <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - RimThemes (animated) - UI_BackgroundMain.BGPlanet_.ogv</label>
-        <description>An animated background.</description>
-        <defName>EvenMoreBackgrounds_ksdajhslasdfsadjs</defName>
-        <path>UI_BackgroundMain.BGPlanet_</path>
-        <animated>true</animated>
-    </VBE.BackgroundImageDef>
+
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 1</label>
         <description>Splash screen depicting something from space.</description>
