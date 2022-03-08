@@ -1,43 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
     <VBE.BackgroundImageDef>
-        <label>Space 1</label>
+        <label>Even More Backgrounds - Earth (animated)</label>
+        <description>An animated background.</description>
+        <defName>EvenMoreBackgrounds_NASA_World</defName>
+        <path>Animated_NASA_World</path>
+        <animated>true</animated>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - Space 1</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans_jMHEJA_Q5hY</defName>
         <path>aldebarans-jMHEJA-Q5hY</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Space 2</label>
+        <label>Even More Backgrounds - Space 2</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans_nRAOQdF4IM4</defName>
         <path>aldebarans-nRAOQdF4IM4</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Space 3</label>
+        <label>Even More Backgrounds - Space 3</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans_qtRF_RxCAo0</defName>
         <path>aldebarans-qtRF_RxCAo0</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Space 4</label>
+        <label>Even More Backgrounds - Space 4</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_andyjh07_rCbdp8VCYhQ</defName>
         <path>andyjh07-rCbdp8VCYhQ</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Space 5</label>
+        <label>Even More Backgrounds - Space 5</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_gferla_OwbUG4UrWm0</defName>
         <path>gferla-OwbUG4UrWm0</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Dish</label>
+        <label>Even More Backgrounds - Dish</label>
         <description>Splash screen depicting a technological device.</description>
         <defName>EvenMoreBackgrounds_galen_crout_ZYecenZy7o4</defName>
         <path>galen_crout-ZYecenZy7o4</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Rocket</label>
+        <label>Even More Backgrounds - Rocket</label>
         <description>Splash screen depicting a rocket.</description>
         <defName>EvenMoreBackgrounds_jacklikethings_xJ1RlmD_hHU</defName>
         <path>jacklikethings-xJ1RlmD_hHU</path>

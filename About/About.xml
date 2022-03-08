@@ -7,7 +7,11 @@
 		<li>1.3</li>
 	</supportedVersions>
 	<packageId>Flixbox.EvenMoreBackgrounds</packageId>
-	<description>Reduces the stats of the class to a normal amount. Doesn't change the spells or attacks of the class.</description>
+	<description>
+Adds a lot of backgrounds (animated and still) for the main menu to the game. Most are from Unsplash or Pixabay, credits are usually in the appropriate folder.
+
+Make sure you check the "Allow animated backgrounds" option in the settings for Vanilla Backgrounds Expanded if you want the animated videos to be shown.
+	</description>
 	<modDependencies>
 		<li>
 			<packageId>vanillaexpanded.backgrounds</packageId>
