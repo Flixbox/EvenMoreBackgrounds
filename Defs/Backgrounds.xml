@@ -2,10 +2,10 @@
 <Defs>
 
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - RimThemes (animated) - UI_BackgroundMain.BGPlanet.webm</label>
+        <label>Even More Backgrounds - Tunnel (animated)</label>
         <description>An animated background.</description>
-        <defName>EvenMoreBackgrounds_ksdajhsladjs</defName>
-        <path>UI_BackgroundMain.BGPlanet</path>
+        <defName>EvenMoreBackgrounds_Tunnel</defName>
+        <path>Tunnel</path>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
 
