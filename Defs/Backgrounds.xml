@@ -6,6 +6,7 @@
         <description>An animated background.</description>
         <defName>EvenMoreBackgrounds_Tunnel_Animated</defName>
         <path>Animated_Tunnel</path>
+        <previewFrame>30</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
@@ -13,6 +14,7 @@
         <description>An animated background.</description>
         <defName>EvenMoreBackgrounds_World_Animated</defName>
         <path>Animated_NASA_World</path>
+        <previewFrame>30</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
@@ -20,6 +22,7 @@
         <description>An animated background.</description>
         <defName>EvenMoreBackgrounds_Blue_Planet_Animated</defName>
         <path>Animated_Blue_Planet</path>
+        <previewFrame>30</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
@@ -27,6 +30,7 @@
         <description>An animated background.</description>
         <defName>EvenMoreBackgrounds_Rocket_Launch</defName>
         <path>Animated_NASA_Rocket_Launch</path>
+        <previewFrame>30</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
@@ -34,6 +38,7 @@
         <description>An animated background.</description>
         <defName>EvenMoreBackgrounds_SciFi_UI_1</defName>
         <path>Animated_SciFi_UI_1</path>
+        <previewFrame>30</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
@@ -41,6 +46,7 @@
         <description>An animated background.</description>
         <defName>EvenMoreBackgrounds_Stars</defName>
         <path>Animated_Stars</path>
+        <previewFrame>30</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
@@ -48,6 +54,7 @@
         <description>An animated background.</description>
         <defName>EvenMoreBackgrounds_Animated_Wormhole</defName>
         <path>Animated_Wormhole</path>
+        <previewFrame>30</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
 
