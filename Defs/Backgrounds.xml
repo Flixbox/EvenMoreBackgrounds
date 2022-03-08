@@ -4,8 +4,22 @@
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Tunnel (animated)</label>
         <description>An animated background.</description>
-        <defName>EvenMoreBackgrounds_Tunnel</defName>
+        <defName>EvenMoreBackgrounds_Tunnel_Animated</defName>
         <path>Tunnel</path>
+        <animated>true</animated>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - World (animated)</label>
+        <description>An animated background.</description>
+        <defName>EvenMoreBackgrounds_World_Animated</defName>
+        <path>Animated_NASA_World</path>
+        <animated>true</animated>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - Rocket Launch (animated)</label>
+        <description>An animated background.</description>
+        <defName>EvenMoreBackgrounds_Rocket_Launch</defName>
+        <path>Animated_NASA_Rocket_Launch</path>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
 
