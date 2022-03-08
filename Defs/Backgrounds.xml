@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
     <VBE.BackgroundImageDef>
-        <label>Save our Ship 2</label>
-        <description>Splash Screen Included in SoS2</description>
-        <defName>SOS_Splash</defName>
-        <path>SplashScreen</path>
-        <iconPath>UI/Ship_Icon_Maintain</iconPath>
-    </VBE.BackgroundImageDef>	
+        <label>Space 1</label>
+        <description>Splash screen depicting something from space.</description>
+        <defName>EvenMoreBackgrounds_aldebarans_jMHEJA_Q5hY</defName>
+        <path>aldebarans-jMHEJA-Q5hY</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Space 2</label>
+        <description>Splash screen depicting something from space.</description>
+        <defName>EvenMoreBackgrounds_aldebarans_nRAOQdF4IM4</defName>
+        <path>aldebarans-nRAOQdF4IM4</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Space 3</label>
+        <description>Splash screen depicting something from space.</description>
+        <defName>EvenMoreBackgrounds_aldebarans_qtRF_RxCAo0</defName>
+        <path>aldebarans-qtRF_RxCAo0</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Space 4</label>
+        <description>Splash screen depicting something from space.</description>
+        <defName>EvenMoreBackgrounds_andyjh07_rCbdp8VCYhQ</defName>
+        <path>andyjh07-rCbdp8VCYhQ</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Space 5</label>
+        <description>Splash screen depicting something from space.</description>
+        <defName>EvenMoreBackgrounds_gferla_OwbUG4UrWm0</defName>
+        <path>gferla-OwbUG4UrWm0</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Dish</label>
+        <description>Splash screen depicting a technological device.</description>
+        <defName>EvenMoreBackgrounds_galen_crout_ZYecenZy7o4</defName>
+        <path>galen_crout-ZYecenZy7o4</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Rocket</label>
+        <description>Splash screen depicting a rocket.</description>
+        <defName>EvenMoreBackgrounds_jacklikethings_xJ1RlmD_hHU</defName>
+        <path>jacklikethings-xJ1RlmD_hHU</path>
+    </VBE.BackgroundImageDef>
 </Defs>
