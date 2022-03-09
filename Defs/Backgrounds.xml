@@ -99,81 +99,160 @@
     </VBE.BackgroundImageDef>
 
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Space 1</label>
+        <label>Even More Backgrounds - (scifi) Space 1</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans-jMHEJA_Q5hY</defName>
         <path>scifi/aldebarans-jMHEJA-Q5hY</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Space 2</label>
+        <label>Even More Backgrounds - (scifi) Space 2</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans-nRAOQdF4IM4</defName>
         <path>scifi/aldebarans-nRAOQdF4IM4</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Space 3</label>
+        <label>Even More Backgrounds - (scifi) Space 3</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans-qtRF_RxCAo0</defName>
         <path>scifi/aldebarans-qtRF_RxCAo0</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Space 4</label>
+        <label>Even More Backgrounds - (scifi) Space 4</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_andyjh07-rCbdp8VCYhQ</defName>
         <path>scifi/andyjh07-rCbdp8VCYhQ</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Space 5</label>
+        <label>Even More Backgrounds - (scifi) Space 5</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_gferla-OwbUG4UrWm0</defName>
         <path>scifi/gferla-OwbUG4UrWm0</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Dish</label>
+        <label>Even More Backgrounds - (scifi) Dish</label>
         <description>Splash screen depicting a technological device.</description>
         <defName>EvenMoreBackgrounds_galen_crout-ZYecenZy7o4</defName>
         <path>scifi/galen_crout-ZYecenZy7o4</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Rocket</label>
+        <label>Even More Backgrounds - (scifi) Rocket</label>
         <description>Splash screen depicting a rocket.</description>
         <defName>EvenMoreBackgrounds_jacklikethings-xJ1RlmD_hHU</defName>
         <path>scifi/jacklikethings-xJ1RlmD_hHU</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Space 6</label>
+        <label>Even More Backgrounds - (scifi) Space 6</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_jeremybishop-bAXBuCBHfRc</defName>
         <path>scifi/jeremybishop-bAXBuCBHfRc</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Stars 1</label>
+        <label>Even More Backgrounds - (scifi) Stars 1</label>
         <description>Splash screen depicting stars.</description>
         <defName>EvenMoreBackgrounds_jeremyperkins-uhjiu8FjnsQ</defName>
         <path>scifi/jeremyperkins-uhjiu8FjnsQ</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Space 7</label>
+        <label>Even More Backgrounds - (scifi) Space 7</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_jeremythomasphoto-4dpAqfTbvKA</defName>
         <path>scifi/jeremythomasphoto-4dpAqfTbvKA</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Stars 2</label>
+        <label>Even More Backgrounds - (scifi) Stars 2</label>
         <description>Splash screen depicting stars.</description>
         <defName>EvenMoreBackgrounds_laup-qVotvbsuM_c</defName>
         <path>scifi/laup-qVotvbsuM_c</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Stars 3</label>
+        <label>Even More Backgrounds - (scifi) Stars 3</label>
         <description>Splash screen depicting stars.</description>
         <defName>EvenMoreBackgrounds_lionel28-IYvdGTWXxRM</defName>
         <path>scifi/lionel28-IYvdGTWXxRM</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
-        <label>Even More Backgrounds - Red Planet</label>
+        <label>Even More Backgrounds - (scifi) Red Planet</label>
         <description>Splash screen depicting the surface of a planet.</description>
         <defName>EvenMoreBackgrounds_lobosnico-kGtFjYdm7DI</defName>
         <path>scifi/lobosnico-kGtFjYdm7DI</path>
+    </VBE.BackgroundImageDef>
+
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Castle</label>
+        <description>Splash screen depicting a stylized castle.</description>
+        <defName>EvenMoreBackgrounds_castle-2596885</defName>
+        <path>medieval/castle-2596885</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Tower</label>
+        <description>Splash screen depicting a tower.</description>
+        <defName>EvenMoreBackgrounds_cesar-tower-3584313_1920</defName>
+        <path>medieval/cesar-tower-3584313_1920</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Butterflies</label>
+        <description>Splash screen depicting butterflies.</description>
+        <defName>EvenMoreBackgrounds_fantasy-2049567</defName>
+        <path>medieval/fantasy-2049567</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Cave</label>
+        <description>Splash screen depicting a cave.</description>
+        <defName>EvenMoreBackgrounds_fantasy-2750995</defName>
+        <path>medieval/fantasy-2750995</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Sun</label>
+        <description>Splash screen depicting the sun and a cliff.</description>
+        <defName>EvenMoreBackgrounds_fantasy-2861107</defName>
+        <path>medieval/fantasy-2861107</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Forest</label>
+        <description>Splash screen depicting a forest.</description>
+        <defName>EvenMoreBackgrounds_forest-3877365_1920</defName>
+        <path>medieval/forest-3877365_1920</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Path</label>
+        <description>Splash screen depicting a path.</description>
+        <defName>EvenMoreBackgrounds_ireland-1971997_1920</defName>
+        <path>medieval/ireland-1971997_1920</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Knight 1</label>
+        <description>Splash screen depicting a knight's equipment.</description>
+        <defName>EvenMoreBackgrounds_knight-1421358</defName>
+        <path>medieval/knight-1421358</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Knight 2</label>
+        <description>Splash screen depicting a knight.</description>
+        <defName>EvenMoreBackgrounds_knight-3091521</defName>
+        <path>medieval/knight-3091521</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Knight 3</label>
+        <description>Splash screen depicting a knight's equipment.</description>
+        <defName>EvenMoreBackgrounds_medieval-fair-3433123_1920</defName>
+        <path>medieval/medieval-fair-3433123_1920</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Axe 1</label>
+        <description>Splash screen depicting an axe.</description>
+        <defName>EvenMoreBackgrounds_axe-5494732</defName>
+        <path>medieval/axe-5494732</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Axe 2</label>
+        <description>Splash screen depicting an axe.</description>
+        <defName>EvenMoreBackgrounds_axe-5494731</defName>
+        <path>medieval/axe-5494731</path>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (medieval) Sword</label>
+        <description>Splash screen depicting a sword.</description>
+        <defName>EvenMoreBackgrounds_sword-5470711</defName>
+        <path>medieval/sword-5470711</path>
     </VBE.BackgroundImageDef>
 </Defs>
