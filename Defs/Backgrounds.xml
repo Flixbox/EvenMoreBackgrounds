@@ -102,78 +102,78 @@
         <label>Even More Backgrounds - Space 1</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans-jMHEJA_Q5hY</defName>
-        <path>aldebarans-jMHEJA-Q5hY</path>
+        <path>scifi/aldebarans-jMHEJA-Q5hY</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 2</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans-nRAOQdF4IM4</defName>
-        <path>aldebarans-nRAOQdF4IM4</path>
+        <path>scifi/aldebarans-nRAOQdF4IM4</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 3</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_aldebarans-qtRF_RxCAo0</defName>
-        <path>aldebarans-qtRF_RxCAo0</path>
+        <path>scifi/aldebarans-qtRF_RxCAo0</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 4</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_andyjh07-rCbdp8VCYhQ</defName>
-        <path>andyjh07-rCbdp8VCYhQ</path>
+        <path>scifi/andyjh07-rCbdp8VCYhQ</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 5</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_gferla-OwbUG4UrWm0</defName>
-        <path>gferla-OwbUG4UrWm0</path>
+        <path>scifi/gferla-OwbUG4UrWm0</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Dish</label>
         <description>Splash screen depicting a technological device.</description>
         <defName>EvenMoreBackgrounds_galen_crout-ZYecenZy7o4</defName>
-        <path>galen_crout-ZYecenZy7o4</path>
+        <path>scifi/galen_crout-ZYecenZy7o4</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Rocket</label>
         <description>Splash screen depicting a rocket.</description>
         <defName>EvenMoreBackgrounds_jacklikethings-xJ1RlmD_hHU</defName>
-        <path>jacklikethings-xJ1RlmD_hHU</path>
+        <path>scifi/jacklikethings-xJ1RlmD_hHU</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 6</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_jeremybishop-bAXBuCBHfRc</defName>
-        <path>jeremybishop-bAXBuCBHfRc</path>
+        <path>scifi/jeremybishop-bAXBuCBHfRc</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Stars 1</label>
         <description>Splash screen depicting stars.</description>
         <defName>EvenMoreBackgrounds_jeremyperkins-uhjiu8FjnsQ</defName>
-        <path>jeremyperkins-uhjiu8FjnsQ</path>
+        <path>scifi/jeremyperkins-uhjiu8FjnsQ</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 7</label>
         <description>Splash screen depicting something from space.</description>
         <defName>EvenMoreBackgrounds_jeremythomasphoto-4dpAqfTbvKA</defName>
-        <path>jeremythomasphoto-4dpAqfTbvKA</path>
+        <path>scifi/jeremythomasphoto-4dpAqfTbvKA</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Stars 2</label>
         <description>Splash screen depicting stars.</description>
         <defName>EvenMoreBackgrounds_laup-qVotvbsuM_c</defName>
-        <path>laup-qVotvbsuM_c</path>
+        <path>scifi/laup-qVotvbsuM_c</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Stars 3</label>
         <description>Splash screen depicting stars.</description>
         <defName>EvenMoreBackgrounds_lionel28-IYvdGTWXxRM</defName>
-        <path>lionel28-IYvdGTWXxRM</path>
+        <path>scifi/lionel28-IYvdGTWXxRM</path>
     </VBE.BackgroundImageDef>
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Red Planet</label>
         <description>Splash screen depicting the surface of a planet.</description>
         <defName>EvenMoreBackgrounds_lobosnico-kGtFjYdm7DI</defName>
-        <path>lobosnico-kGtFjYdm7DI</path>
+        <path>scifi/lobosnico-kGtFjYdm7DI</path>
     </VBE.BackgroundImageDef>
 </Defs>
