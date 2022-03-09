@@ -65,6 +65,38 @@
         <previewFrame>60</previewFrame>
         <animated>true</animated>
     </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (animated) Tunnel 2</label>
+        <description>An animated background.</description>
+        <defName>EvenMoreBackgrounds_Animated_Tunnel_2</defName>
+        <path>Animated_Tunnel_2</path>
+        <previewFrame>60</previewFrame>
+        <animated>true</animated>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (animated) Tunnel 3</label>
+        <description>An animated background.</description>
+        <defName>EvenMoreBackgrounds_Animated_Tunnel_3</defName>
+        <path>Animated_Tunnel_3</path>
+        <previewFrame>60</previewFrame>
+        <animated>true</animated>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (animated) Trees</label>
+        <description>An animated background.</description>
+        <defName>EvenMoreBackgrounds_Animated_Trees</defName>
+        <path>Animated_Trees</path>
+        <previewFrame>60</previewFrame>
+        <animated>true</animated>
+    </VBE.BackgroundImageDef>
+    <VBE.BackgroundImageDef>
+        <label>Even More Backgrounds - (animated) Galaxy</label>
+        <description>An animated background.</description>
+        <defName>EvenMoreBackgrounds_Animated_Galaxy</defName>
+        <path>Animated_Galaxy</path>
+        <previewFrame>60</previewFrame>
+        <animated>true</animated>
+    </VBE.BackgroundImageDef>
 
     <VBE.BackgroundImageDef>
         <label>Even More Backgrounds - Space 1</label>
